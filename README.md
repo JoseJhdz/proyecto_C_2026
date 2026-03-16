@@ -19,3 +19,10 @@ Para poder vizualizar todo el trabajo que se hace instalamos en nuestro ambiente
 4. Luego con un código ejecutable que en este caso sería “./conversor”
 5. Ahí podemos ya ejecutar nuestro código y ponerlo a prueba en la terminal en este caso.
 6. *Cabe alcarar que los codigos ejecutables dependeran del codigo hecho.*
+
+## Datos del Autor 
+Nombre: José Hernández
+
+Correo: jose.hernandez#galileo.edu (correo falso)
+
+Carnet: 1122334 (carnet falso)
